@@ -1,7 +1,7 @@
 # Chick_Weight
 This is a source code of a Shiny web application: https://nguyenlong923.shinyapps.io/Chick_Weight/  
 The application presents an analysis of a Chick Weight data.  
-The application was created as an assignment for the course "Developing Data Products"  
+The application was built as an assignment for the course "Developing Data Products"  
 within the "Data Science Specialization" of Jons Hopkins University on Coursera.  
 
 The ChickWeight data frame has 578 rows and 4 variables from an experiment 
